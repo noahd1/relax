@@ -5,7 +5,7 @@ engines:
     config:
       extensions: [".js", ".jsx"]
   duplication:
-    enabled: false
+    enabled: true
     config:
       languages:
         javascript:
@@ -13,7 +13,7 @@ engines:
             - "**/*.js"
             - "**/*.jsx"
   requiresafe:
-    enabled: false
+    enabled: true
 ratings:
   paths:
   - "**.js"
