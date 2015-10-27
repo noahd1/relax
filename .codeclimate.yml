@@ -19,4 +19,5 @@ ratings:
   - "**.js"
   - "**.jsx"
 exclude_paths:
+  - "Gruntfile.js"
   - "assets/**/*"
