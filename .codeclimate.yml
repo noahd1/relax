@@ -4,6 +4,11 @@ engines:
     enabled: true
     config:
       extensions: [".js", ".jsx"]
+  duplication:
+    enabled: true
+    config:
+      languages:
+        javascript: {}
 ratings:
   paths:
   - "**.js"
