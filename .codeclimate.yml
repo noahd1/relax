@@ -11,4 +11,5 @@ ratings:
   paths:
   - "**.js"
   - "**.jsx"
-exclude_paths: []
+exclude_paths:
+- lib/components/admin/**/*
